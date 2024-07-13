@@ -32,5 +32,5 @@ To view the Amazon Clone on your local machine:
    ```bash
    git clone https://unknownist.github.io/Amazon-Clone/clone.html
 
-   🌐 Live Demo
+  ## 🌐 Live Demo
 Check out the live demo of the Amazon Clone here (replace with the actual URL if you have one).
