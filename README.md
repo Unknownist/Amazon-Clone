@@ -32,7 +32,7 @@ To view the Amazon Clone on your local machine:
    ```bash
    git clone https://unknownist.github.io/Amazon-Clone/clone.html
 
-###💻 Technologies Used
+## 💻 Technologies Used
 HTML5: Structure and content of the web pages.
 CSS3: Styling and layout for a modern look.
 ##🤝 Contact
@@ -40,7 +40,7 @@ For any questions or comments, you can reach out to me:
 
 **GitHub**: Unknownist
  
-###🔗 Links
+## 🔗 Links
 [AmazonClone](https://unknownist.github.io/Amazon-Clone/clone.html)<br>
 Feel free to explore and use the code for learning or your own projects. Happy coding! 😊
 
