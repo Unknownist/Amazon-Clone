@@ -21,7 +21,7 @@ Here’s a preview of the Amazon Clone:
 
 ## 🚀 Getting Started
 
-You can view the Amazon Clone by cloning this repository or accessing the live demo.
+You can view the Amazon Clone by cloning this repository.
 
 ### 🔧 Local Setup
 
