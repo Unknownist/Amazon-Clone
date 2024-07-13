@@ -38,8 +38,9 @@ CSS3: Styling and layout for a modern look.
 ##🤝 Contact
 For any questions or comments, you can reach out to me:
 
-GitHub: Unknownist 
+GitHub: Unknownist
+ 
 ##🔗 Links
-[GitHub Repository](https://unknownist.github.io/Amazon-Clone/clone.html)
+[AmazonClone](https://unknownist.github.io/Amazon-Clone/clone.html)<br>
 Feel free to explore and use the code for learning or your own projects. Happy coding! 😊
 
