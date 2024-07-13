@@ -30,4 +30,4 @@ To view the Amazon Clone on your local machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone (https://unknownist.github.io/Amazon-Clone/clone.html)
+   git clone https://unknownist.github.io/Amazon-Clone/clone.html
